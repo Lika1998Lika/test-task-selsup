@@ -1,6 +1,6 @@
-# clone this repository (ssh)
+#### clone this repository (ssh)
 https://github.com/Lika1998Lika/test-task-selsup# 
-# install dependencies
+#### install dependencies
 npm install
-# run locally
+#### run locally
 npm run dev
